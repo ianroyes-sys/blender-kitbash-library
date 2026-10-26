@@ -1,0 +1,69 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` are ignored.
+# The first non-ignored line should be the version indicator.
+# VERSION 1
+
+VERSION 1
+
+d8737a5b-bb88-4438-a4cf-a56c2211f566:Nature and Organic:Nature-and-Organic
+5504a4f7-f792-4070-b8e3-a103045738ba:Industrial and Machinery:Industrial-and-Machinery
+10b75105-8e08-4954-b21b-1211ffa9c7a4:Architecture and Structures:Architecture-and-Structures
+49ec3b05-7ef5-48af-b500-8191ae6ac851:Vehicles and Ships:Vehicles-and-Ships
+199c7e57-73e3-44a6-a96d-f2c890c9ad1d:Weapons:Weapons
+654612fd-51b1-42c6-a56b-384ed2840c37:Characters and Creatures:Characters-and-Creatures
+1998721b-f2a1-4718-aa65-709819c737fa:Furniture and Seating:Furniture-and-Seating
+5a61755f-5aff-4e74-98c9-e68d73aa677c:Electronics and Appliances:Electronics-and-Appliances
+cfd7f186-07f6-4873-bd06-20e17eff1610:Food and Kitchen:Food-and-Kitchen
+18ccedb9-b850-4a71-a8d0-91793de75427:Props and Decorative:Props-and-Decorative
+da175716-66ce-4a8e-b61a-ed8f83050d3f:Kenney Game Kits:Kenney-Game-Kits
+398f3086-d449-4675-b915-121b83da0e92:Nature and Organic/Kenney - Food kit:Nature-and-Organic-Kenney-Food-kit
+5aa4d66b-b8a1-4362-b078-1886ddfeb0e9:Nature and Organic/Kenney - Mini forest:Nature-and-Organic-Kenney-Mini-forest
+ad4c9dab-6da9-4da1-bab4-b9d8f2ec416e:Nature and Organic/Kenney - Survival kit:Nature-and-Organic-Kenney-Survival-kit
+ff779fee-e886-48c7-beb9-0485185848ef:Industrial and Machinery/Kenney - Factory kit:Industrial-and-Machinery-Kenney-Factory-kit
+1dc2280d-da8c-4ea5-a27a-9ce45f0c7817:Architecture and Structures/Kenney - Building kit:Architecture-and-Structures-Kenney-Building-kit
+5b71712f-56d6-4f62-bb2d-d08617a4c8bb:Architecture and Structures/Kenney - Castle kit:Architecture-and-Structures-Kenney-Castle-kit
+37ad8d02-f52e-4df7-9a25-a15882abff62:Architecture and Structures/Kenney - City kit commercial:Architecture-and-Structures-Kenney-City-kit-commercial
+3df46b94-2f20-4c33-8c6a-38dbdfd5bf13:Architecture and Structures/Kenney - City kit industrial:Architecture-and-Structures-Kenney-City-kit-industrial
+c6382b55-6ff1-4b57-ab74-e680b2d8b15e:Architecture and Structures/Kenney - City kit roads:Architecture-and-Structures-Kenney-City-kit-roads
+ffae07f9-ae60-4345-903f-b9cd21f5d273:Architecture and Structures/Kenney - City kit suburban:Architecture-and-Structures-Kenney-City-kit-suburban
+7eae8efd-c800-48b5-aa68-af14ac52d064:Architecture and Structures/Kenney - Fantasy town kit:Architecture-and-Structures-Kenney-Fantasy-town-kit
+038b9218-78a1-4b3a-851b-0c326f69fa70:Architecture and Structures/Kenney - Graveyard kit:Architecture-and-Structures-Kenney-Graveyard-kit
+193beaef-f143-4c36-9e04-0b90a4d1f42b:Architecture and Structures/Kenney - Mini dungeon:Architecture-and-Structures-Kenney-Mini-dungeon
+cfd664dc-7887-4a02-916a-abc7a73b55b1:Architecture and Structures/Kenney - Modular buildings:Architecture-and-Structures-Kenney-Modular-buildings
+6a5c3ec9-afb0-4d4f-b130-0811c51373ea:Architecture and Structures/Kenney - Modular cave kit:Architecture-and-Structures-Kenney-Modular-cave-kit
+24402e86-e38f-4a30-8e90-16e88d03078d:Architecture and Structures/Kenney - Modular dungeon kit:Architecture-and-Structures-Kenney-Modular-dungeon-kit
+715c4e2a-3f31-467f-8db1-bb3320e3c020:Architecture and Structures/Kenney - Tower defense kit:Architecture-and-Structures-Kenney-Tower-defense-kit
+72520471-0d79-402f-ade9-668065afce20:Vehicles and Ships/Kenney - Car kit:Vehicles-and-Ships-Kenney-Car-kit
+c20dddee-3ba5-414a-aa18-228677ee19b1:Vehicles and Ships/Kenney - Modular space kit:Vehicles-and-Ships-Kenney-Modular-space-kit
+67cc023b-4306-4870-8acf-fda791cd165e:Vehicles and Ships/Kenney - Pirate kit:Vehicles-and-Ships-Kenney-Pirate-kit
+3a9cc2e9-56d5-4a4d-888f-4f71b4676dae:Vehicles and Ships/Kenney - Toy car kit:Vehicles-and-Ships-Kenney-Toy-car-kit
+02ac53bf-ee34-4622-aee9-8785bdd4ab19:Vehicles and Ships/Kenney - Train kit:Vehicles-and-Ships-Kenney-Train-kit
+92bfb4e4-921c-473e-a817-223bb1f28a33:Vehicles and Ships/Kenney - Watercraft kit:Vehicles-and-Ships-Kenney-Watercraft-kit
+37662eda-065e-4fe1-b732-07ac1909c98c:Weapons/Kenney - Blaster kit:Weapons-Kenney-Blaster-kit
+27da39a7-bcdc-4746-af57-76815de72be0:Characters and Creatures/Kenney - Blocky characters:Characters-and-Creatures-Kenney-Blocky-characters
+895e433b-45f6-41bc-9c05-ccdc41e33d1d:Characters and Creatures/Kenney - Cube pets:Characters-and-Creatures-Kenney-Cube-pets
+5dda5460-c261-416d-9e14-2194f6a68235:Characters and Creatures/Kenney - Mini characters:Characters-and-Creatures-Kenney-Mini-characters
+10e494f7-a6ee-4314-8931-065324a869a0:Kenney Game Kits/Kenney - Brick kit:Kenney-Game-Kits-Kenney-Brick-kit
+0a05f3f2-83cd-4c7f-925d-11b7c3191089:Kenney Game Kits/Kenney - Coaster kit:Kenney-Game-Kits-Kenney-Coaster-kit
+6d6459ff-a3d5-423f-8572-f87b1a05216d:Kenney Game Kits/Kenney - Hexagon kit:Kenney-Game-Kits-Kenney-Hexagon-kit
+561e4406-7609-430c-8878-3f042551e31a:Kenney Game Kits/Kenney - Holiday kit:Kenney-Game-Kits-Kenney-Holiday-kit
+00af148f-81f0-4ea9-a9a2-61407459a95d:Kenney Game Kits/Kenney - Marble kit:Kenney-Game-Kits-Kenney-Marble-kit
+ec6597c4-ef1a-42c9-a725-b702ee25d387:Kenney Game Kits/Kenney - Mini arcade:Kenney-Game-Kits-Kenney-Mini-arcade
+908f1192-ca47-4239-9faf-5bf010953a72:Kenney Game Kits/Kenney - Mini arena:Kenney-Game-Kits-Kenney-Mini-arena
+61e75927-fb52-4a94-a3cd-c884c671c3a9:Kenney Game Kits/Kenney - Mini market:Kenney-Game-Kits-Kenney-Mini-market
+6e66cd54-9719-4a27-850e-4220257e77c3:Kenney Game Kits/Kenney - Mini skate:Kenney-Game-Kits-Kenney-Mini-skate
+288795fd-29fe-435e-ae06-7be0bbef8db1:Kenney Game Kits/Kenney - Minigolf kit:Kenney-Game-Kits-Kenney-Minigolf-kit
+2bc0299d-7967-40ce-9a4f-cd6e5c156c5a:Kenney Game Kits/Kenney - Platformer kit:Kenney-Game-Kits-Kenney-Platformer-kit
+de6241a0-594b-4349-ae62-76d6b70f10c9:Kenney Game Kits/Kenney - Prototype kit:Kenney-Game-Kits-Kenney-Prototype-kit
+773bf99b-0769-439d-9743-a549e095ad2d:Kenney Game Kits/Kenney - Retro fantasy kit:Kenney-Game-Kits-Kenney-Retro-fantasy-kit
+2ec73d14-ffa2-41d2-88d3-b2dcc853a5d7:Kenney Game Kits/Kenney - Retro urban kit:Kenney-Game-Kits-Kenney-Retro-urban-kit
+61e3e8f0-8614-4e09-8751-017914057f44:Kenney Game Kits/Kenney - Space station kit:Kenney-Game-Kits-Kenney-Space-station-kit
+a4e627f2-4f13-41f2-b154-d322e8811730:Nature and Organic/Kenney - Nature kit:Nature-and-Organic-Kenney-Nature-kit
+aaaf602f-a455-482a-99b8-4ad28790eb9c:Vehicles and Ships/Kenney - Racing kit:Vehicles-and-Ships-Kenney-Racing-kit
+4f0fcc5a-dde4-4110-ac99-2c23ec23ed5e:Vehicles and Ships/Kenney - Space kit:Vehicles-and-Ships-Kenney-Space-kit
+98174da8-be9e-4140-8f91-42930a6bf76b:Characters and Creatures/Kenney - Animated characters protagonists:Characters-and-Creatures-Kenney-Animated-characters-protagonists
+1dbbaac4-5f4e-40b5-b137-2ad3e28d76c4:Characters and Creatures/Kenney - Animated characters retro:Characters-and-Creatures-Kenney-Animated-characters-retro
+92dc4bd1-a48c-4cbd-90dd-40fbd6ad113d:Characters and Creatures/Kenney - Animated characters survivors:Characters-and-Creatures-Kenney-Animated-characters-survivors
+e7ebed92-85e4-4fc2-8ac1-57e95b3a2f20:Furniture and Seating/Kenney - Furniture kit:Furniture-and-Seating-Kenney-Furniture-kit
+91768e25-7673-48f7-bc2b-03a1512f7655:Kenney Game Kits/Kenney - 3d road tiles:Kenney-Game-Kits-Kenney-3d-road-tiles
